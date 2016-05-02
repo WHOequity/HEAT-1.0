@@ -12,7 +12,7 @@ Customized results can be exported and saved in different formats.
 <hr>
 
 © Copyright World Health Organization, 2016. 
-  
+<br>
 
 #### SUGGESTED CITATION
 <hr>
