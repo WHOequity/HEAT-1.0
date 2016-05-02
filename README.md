@@ -1,4 +1,4 @@
-#### HEALTH EQUITY ASSESSMENT TOOLKIT (HEAT), BUILT-IN DATABASE EDITION, VERSION 1.0
+##### HEALTH EQUITY ASSESSMENT TOOLKIT (HEAT), BUILT-IN DATABASE EDITION, VERSION 1.0
 <hr>
 
 HEAT was developed to facilitate the assessment of within-country health 
@@ -44,12 +44,12 @@ conditions, and requirements of the Agreement.
 1.1. The Toolkit contains software developed by WHO (the “Software”). WHO has, 
 or will, make two editions of the Toolkit available: 
 
-&nbsp;&nbsp;&nbsp;&nbsp;(i) a built-in database edition which includes WHO data, originating from the 
+  (i) a built-in database edition which includes WHO data, originating from the 
 WHO Health Equity Monitor database, for use with the Software (the “Data”), and 
 which does not allow you to upload your own data into the Software (the “Closed 
 Toolkit”); and 
 
-&nbsp;&nbsp;&nbsp;&nbsp;(ii) an upload database edition which enables you to upload your own data into 
+  (ii) an upload database edition which enables you to upload your own data into 
 the toolkit, does not include the Data, and does not include any reference to 
 WHO, by name, logo, or otherwise (the “Open Toolkit”).
 
@@ -120,28 +120,28 @@ or any support material such as the related documentation.
 
 5.3. Limitations on use of Data. In no event shall you use the Data: 
 
-&nbsp;&nbsp;&nbsp;&nbsp;(i) In any manner which infringes the rights of any person or entity, 
+  (i) In any manner which infringes the rights of any person or entity, 
 including the rights of WHO or any attributed owner(s) of the Data; 
 
-&nbsp;&nbsp;&nbsp;&nbsp;(ii) In, or in association with, any product marketing, promotional, or 
+  (ii) In, or in association with, any product marketing, promotional, or 
 commercial activities, including, without limitation, in, or in association with, 
 advertisements, product brochures, company-sponsored web sites, annual reports, 
 or other non-educational publications or distributions; 
 
-&nbsp;&nbsp;&nbsp;&nbsp;(iii) In, or in connection with, the promotion of a commercial enterprise 
+  (iii) In, or in connection with, the promotion of a commercial enterprise 
 and/or its product(s) or service(s), and/or in any way that suggests that WHO 
 endorses any specific company or products;
 
-&nbsp;&nbsp;&nbsp;&nbsp;(iv) In any political activities; 
+  (iv) In any political activities; 
 
-&nbsp;&nbsp;&nbsp;&nbsp;(v) In any way which is contrary to the policies and principles of WHO 
+  (v) In any way which is contrary to the policies and principles of WHO 
 and/or which might otherwise jeopardize the name or reputation of WHO, its 
 special programmes, and/or its research projects or the attributed owner(s) of 
 the Data; 
 
-&nbsp;&nbsp;&nbsp;&nbsp;(vi) In any manner which is, or could be considered to be, illegal; or 
+  (vi) In any manner which is, or could be considered to be, illegal; or 
 
-&nbsp;&nbsp;&nbsp;&nbsp;(vii) In any manner which is in violation of this Agreement.
+  (vii) In any manner which is in violation of this Agreement.
 
 6\. Acknowledgment and Use of WHO Name and Emblem
 
@@ -160,9 +160,9 @@ mention of the Toolkit, use of outputs from the Toolkit, and/or use of the Data,
 in publications (including reports, briefings, and journal articles) must 
 include the following citation of the source: 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Health Equity Assessment Toolkit (HEAT): Software for exploring and comparing 
-&nbsp;&nbsp;&nbsp;&nbsp;health inequalities in countries. Built-in database edition. Version 1.0. 
-&nbsp;&nbsp;&nbsp;&nbsp;Geneva, World Health Organization, 2016.
+  Health Equity Assessment Toolkit (HEAT): Software for exploring and comparing 
+  health inequalities in countries. Built-in database edition. Version 1.0. 
+  Geneva, World Health Organization, 2016.
 
 Other than as provided above, you shall not (i) in connection with your use of 
 the Closed Toolkit, state or imply that WHO endorses or is affiliated with you 
