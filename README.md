@@ -7,7 +7,7 @@ data and summary measures, that are presented in interactive tables and graphs.
 Customized results can be exported and saved in different formats. 
 
 
-### COPYRIGHT
+#### COPYRIGHT
 <hr>
 
 © Copyright World Health Organization, 2016. 
@@ -41,19 +41,19 @@ conditions, and requirements of the Agreement.
 
 1. Components and Types of the Toolkit
 
-1.1. The Toolkit contains software developed by WHO (the “Software”). WHO has, 
+  1.1. The Toolkit contains software developed by WHO (the “Software”). WHO has, 
 or will, make two editions of the Toolkit available: 
 
-  (i) a built-in database edition which includes WHO data, originating from the 
+    (i) a built-in database edition which includes WHO data, originating from the 
 WHO Health Equity Monitor database, for use with the Software (the “Data”), and 
 which does not allow you to upload your own data into the Software (the “Closed 
 Toolkit”); and 
 
-  (ii) an upload database edition which enables you to upload your own data into 
+    (ii) an upload database edition which enables you to upload your own data into 
 the toolkit, does not include the Data, and does not include any reference to 
 WHO, by name, logo, or otherwise (the “Open Toolkit”).
 
-This Agreement governs your use of whichever edition(s) of the Toolkit you have 
+  This Agreement governs your use of whichever edition(s) of the Toolkit you have 
 downloaded and/or used through an online platform, including both the Software 
 and, if applicable, the Data. References to the “Toolkit” in the remainder of 
 this Agreement apply to the Closed and/or Open editions, as applicable in your 
