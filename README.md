@@ -120,28 +120,28 @@ or any support material such as the related documentation.
 
 5.3. Limitations on use of Data. In no event shall you use the Data: 
 
-(i) In any manner which infringes the rights of any person or entity, 
+   (i) In any manner which infringes the rights of any person or entity, 
 including the rights of WHO or any attributed owner(s) of the Data; 
 
-(ii) In, or in association with, any product marketing, promotional, or 
+   (ii) In, or in association with, any product marketing, promotional, or 
 commercial activities, including, without limitation, in, or in association with, 
 advertisements, product brochures, company-sponsored web sites, annual reports, 
 or other non-educational publications or distributions; 
 
-(iii) In, or in connection with, the promotion of a commercial enterprise 
+   (iii) In, or in connection with, the promotion of a commercial enterprise 
 and/or its product(s) or service(s), and/or in any way that suggests that WHO 
 endorses any specific company or products;
 
-(iv) In any political activities; 
+   (iv) In any political activities; 
 
-(v) In any way which is contrary to the policies and principles of WHO 
+   (v) In any way which is contrary to the policies and principles of WHO 
 and/or which might otherwise jeopardize the name or reputation of WHO, its 
 special programmes, and/or its research projects or the attributed owner(s) of 
 the Data; 
 
-(vi) In any manner which is, or could be considered to be, illegal; or 
+   (vi) In any manner which is, or could be considered to be, illegal; or 
 
-(vii) In any manner which is in violation of this Agreement.
+   (vii) In any manner which is in violation of this Agreement.
 
 6\. Acknowledgment and Use of WHO Name and Emblem
 
