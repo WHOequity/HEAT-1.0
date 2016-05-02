@@ -11,7 +11,7 @@ Customized results can be exported and saved in different formats.
 <hr>
 
 © Copyright World Health Organization, 2016. 
-
+&nbsp;
 
 #### SUGGESTED CITATION
 <hr>
@@ -103,7 +103,7 @@ an independent and separate work from the Software, and is not distributed as
 “part of a whole” with the Software, as those terms and concepts are used in the 
 GPL.
 
-5. Retained Rights and Limitations on Use
+5\. Retained Rights and Limitations on Use
 
 5.1. Retained Rights. Except as otherwise indicated herein, WHO owns and shall 
 retain all right, title and interest in and to the Toolkit, including all 
