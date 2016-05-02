@@ -44,7 +44,7 @@ conditions, and requirements of the Agreement.
 1.1. The Toolkit contains software developed by WHO (the “Software”). WHO has, 
 or will, make two editions of the Toolkit available: 
 
-   (i) a built-in database edition which includes WHO data, originating from the 
+&nbsp;&nbsp;(i) a built-in database edition which includes WHO data, originating from the 
 WHO Health Equity Monitor database, for use with the Software (the “Data”), and 
 which does not allow you to upload your own data into the Software (the “Closed 
 Toolkit”); and 
